@@ -1,2 +1,2 @@
-#My App
-This is my App.
+#My Org.
+This is my Organization.
